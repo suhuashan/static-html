@@ -8,7 +8,7 @@ a{
     text-decoration: none;
 }
 .img{
-
+    background:transparent;
     width:300px;
     margin:5rem auto;
 }
